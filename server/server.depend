@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1487619217 source:/home/luma/Pulpit/CatchTheThief-server/server/main.cpp
+	<includes.h>
+
+1487619307 source:/home/luma/Pulpit/CatchTheThief-server/server/src/Server.cpp
+	"Server.h"
+
+1487521522 /home/luma/Pulpit/CatchTheThief-server/server/include/Server.h
+	"includes.h"
+
+1487703034 source:/home/luma/Pulpit/CatchTheThief-server/server/src/Player.cpp
+	"Player.h"
+
+1487705619 /home/luma/Pulpit/CatchTheThief-server/server/include/Player.h
+	"includes.h"
+
+1487702709 /home/luma/Pulpit/CatchTheThief-server/server/include/includes.h
+	<sys/types.h>
+	<sys/wait.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netdb.h>
+	<signal.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<pthread.h>
+	<iostream>
+	<vector>
+	<algorithm>
+	<regex>
+	"Server.h"
+	"Player.h"
+	"Controller.h"
+	"Table.h"
+	"Listener.h"
+	"Message.h"
+
+1487702775 /home/luma/Pulpit/CatchTheThief-server/server/include/Controller.h
+	"includes.h"
+
+1487697769 /home/luma/Pulpit/CatchTheThief-server/server/include/Table.h
+	"includes.h"
+
+1487687089 /home/luma/Pulpit/CatchTheThief-server/server/include/Listener.h
+	"includes.h"
+
+1487705600 source:/home/luma/Pulpit/CatchTheThief-server/server/src/Controller.cpp
+	"Controller.h"
+
+1487703034 source:/home/luma/Pulpit/CatchTheThief-server/server/src/Listener.cpp
+	"Listener.h"
+
+1487697768 source:/home/luma/Pulpit/CatchTheThief-server/server/src/Table.cpp
+	"Table.h"
+
+1487694771 /home/luma/Pulpit/CatchTheThief-server/server/include/Message.h
+	"includes.h"
+
+1487705599 source:/home/luma/Pulpit/CatchTheThief-server/server/src/Message.cpp
+	"Message.h"
+
